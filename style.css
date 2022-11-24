@@ -1,0 +1,112 @@
+h1{
+    text-align: center;
+    margin-bottom: 300px;
+    color: #0e0e88;
+}
+#goat{
+    text-align: left;
+}
+.carousel-indicators{
+    padding-top: 16px;
+}
+#fort{
+    text-align: left;
+}
+#rock{
+    text-align: left;
+}
+body{
+    background-color: #0d0d16 !important;
+}
+h3{
+    color: white !important;
+}
+p{
+    color: white !important;
+}
+h1{
+    color: white;
+}
+.carousel-item {
+    height: 450;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+.carousel-indicators {
+    bottom: -50px;
+}
+#logoo{
+ margin-left: -300px;
+ margin-right: 900px;
+}
+.container{
+    padding: 0%;
+}
+#botordem{
+    background-color: white;
+    color: rgb(32, 32, 61);
+    border: #0a0a11;
+}
+.titulos{
+    font-size: large;
+}
+#ola{
+    /*background-color: rgb(45, 167, 56);*/
+    background: rgb(73,73,73);
+    background: linear-gradient(0deg, rgba(73,73,73,1) 0%, rgba(13,13,22,1) 51%);
+}
+#hello{
+    color: white !important;
+}
+#carregar{
+    margin-bottom: 20px;
+    margin-right: 350px;
+}
+.titulosp{
+    text-align: left;
+    font-size: large;
+}
+#jogos{
+    text-align: left;
+    color: white;
+}
+#carregarP{
+    background-color: rgb(73, 73, 73);
+    
+}
+#produt{
+    margin-bottom: 20px;
+    margin-right: 350px;   
+}
+#sobre{
+    text-align: left;
+    color: white;
+}
+#colunaspessoas{
+    float: right !important;
+
+}
+#nomessobre{
+    float: left !important;
+}
+#redes{
+    text-align: left;
+}
+#margemunica{
+    padding-right: 250px !important;
+}
+#fundosobre{
+    background-color: white !important;
+}
+#rodape{
+    background: rgb(73,73,73);
+    background: linear-gradient(0deg, rgba(73,73,73,1) 0%, rgba(13,13,22,1) 51%);
+
+    padding-top: 200px;
+}
+#arreda{
+    text-align: right;
+}
